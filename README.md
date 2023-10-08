@@ -1,1 +1,1 @@
-Add docstrings to new HUB functions (#7576)
+Add Non-Maximum Suppression (NMS) inplace flag (#8368)
