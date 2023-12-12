@@ -1,1 +1,1 @@
-Fix names bug when exporting YOLOv8-World to ONNX (#8941)
+Fix an issue with flatbuffer version for Raspberry Pi (#8311)
