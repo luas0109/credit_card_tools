@@ -1,1 +1,1 @@
-Explorer API video https://youtu.be/3VryynorQeo  (#7838)
+Tab Manager - An easy way to batch-export, batch-close, and batch-add tabs
