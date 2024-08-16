@@ -1,1 +1,1 @@
-Add TensorRT Docs Integrations Page (#7855)
+Expand Model method type hinting (#8279)
