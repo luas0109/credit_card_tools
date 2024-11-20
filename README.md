@@ -1,1 +1,1 @@
-ultralytics 8.1.21 Add YOLOv8-World-v2 models (#8580)
+Update pyproject.toml [tool.pytest.ini_options] (#9259)
